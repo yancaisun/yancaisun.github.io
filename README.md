@@ -1,6 +1,7 @@
 # Chiphell 客户端登录步骤
 
 ## 1.填写邮箱和密码，并点击`验证`按钮
+>> 注意：1. "安全提问" 请留空，无需设置
 
 ![setp1](https://github.com/yancaisun/yancaisun.github.io/assets/145001901/47fcf708-0a5f-4cf3-90b0-3ba292bf5ea6)
 
